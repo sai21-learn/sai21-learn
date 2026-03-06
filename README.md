@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Sooraj<br><br>I build things when an idea refuses to leave my head.<br><br>AI systems, weird prototypes, startup experiments — if it sounds slightly unhinged but technically possible, I’m probably building it.<br><br> Stack<br>Python • FastAPI • PyTorch • Firebase • SQL • Linux • Git<br><br> Operating System<br>Think → Build → Break → Rebuild → Ship<br><br>Most people wait for perfect ideas.  <br>I build them first.<br><br>
+# Sooraj<br><br>I build things when an idea refuses to leave my head.<br><br>AI systems, weird prototypes, startup experiments — if it sounds slightly unhinged but technically possible, I’m probably building it.<br><br> Stack<br>Python • FastAPI • PyTorch • Firebase • SQL • Linux • Git<br><br> Operating System<br>Think → Build → Break → Rebuild → Ship<br>
 
 
  🌐 Socials:
