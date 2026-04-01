@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=sai21-learn&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=sai21-learn&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-
+<a href="http://www.github.com/sai21-learn"><img src="https://github-readme-stats.vercel.app/api?username=sai21-learn&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=000000&icon_color=84cc16&bg_color=7f1d1d&hide_border=true&show_icons=true" alt="sai21-learn's GitHub stats" /></a>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sai21-learn&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
