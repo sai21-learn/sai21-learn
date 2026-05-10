@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Sooraj<br><br>I build things when an idea refuses to leave my head.<br><br>AI systems, weird prototypes, startup experiments — if it sounds slightly unhinged but technically possible, I’m probably building it.<br>
+# Hey I'm Sooraj . Im known as whysooraj on social media . <br><br>I build things when an idea refuses to leave my head.<br><br>AI systems, weird prototypes, startup experiments — if it sounds slightly unhinged but technically possible, I’m probably building it.<br>
 
 
  🌐 Socials:
